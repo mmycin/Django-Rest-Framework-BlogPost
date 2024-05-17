@@ -225,3 +225,6 @@ To test the API from terminal, we can use *CURL* with the following command:
 $ curl http://localhost:8000/api/blogs
 [{"id":7,"title":"Test 1","content":"gbedrty,klk","created_at":"2024-05-17T13:57:08.222521Z"},{"id":8,"title":"Test 2","content":"sdfhfgjhkjl","created_at":"2024-05-17T13:57:14.565172Z"},{"id":9,"title":"Test 3","content":"sdfhfgjhkjlsghdfgjh","created_at":"2024-05-17T13:57:19.228084Z"},{"id":10,"title":"Test 4","content":"sdfghj","created_at":"2024-05-17T13:57:28.287965Z"}]
 ```
+
+
+***Mycin***
